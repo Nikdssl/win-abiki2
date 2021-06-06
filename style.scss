@@ -59,7 +59,7 @@ a {
 
 .main_bg{
   margin: 0 auto;
-  background-image: url('/img/bgbg2.png');
+  background-image: url('img/bgbg2.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center 85%;
@@ -365,7 +365,7 @@ text-transform: uppercase;
 
 .first_red::before{
   content: "";
-  background-image: url(/img/znak.png);
+  background-image: url(img/znak.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
