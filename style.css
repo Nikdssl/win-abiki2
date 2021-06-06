@@ -15,26 +15,26 @@ a {
   font-family: 'PFDinTextCompPro-MedItal';
   font-style: italic;
   font-weight: medium;
-  src: local("PFDinTextCompPro-MedItal"), url("/fonts/pfdintextcomppro-medital.woff") format("woff"), url("/fonts/PFDinTextCompPro-Medium.ttf") format("ttf");
+  src: local("PFDinTextCompPro-MedItal"), url("fonts/pfdintextcomppro-medital.woff") format("woff"), url("fonts/PFDinTextCompPro-Medium.ttf") format("ttf");
 }
 
 @font-face {
   font-family: 'PFDinTextCompPro-Italic';
   font-style: italic;
   font-weight: normal;
-  src: local("PFDinTextCompPro-Italic"), url("/fonts/PFDinTextCompPro-Italic.woff") format("woff"), url("/fonts/PFDinTextCompPro-Italic.ttf") format("ttf");
+  src: local("PFDinTextCompPro-Italic"), url("fonts/PFDinTextCompPro-Italic.woff") format("woff"), url("fonts/PFDinTextCompPro-Italic.ttf") format("ttf");
 }
 
 @font-face {
   font-family: 'PFDinTextCompPro-Medium';
   font-style: normal;
   font-weight: medium;
-  src: local("PFDinTextCompPro-Medium"), url("/fonts/PFDinTextCompPro-Medium.woff") format("woff"), url("/fonts/PFDinTextCompPro-Medium.ttf") format("ttf");
+  src: local("PFDinTextCompPro-Medium"), url("fonts/PFDinTextCompPro-Medium.woff") format("woff"), url("fonts/PFDinTextCompPro-Medium.ttf") format("ttf");
 }
 
 @font-face {
   font-family: 'PFDinTextCompPro-Regular';
-  src: local("PFDinTextCompPro-Regular"), url("/fonts/PFDinTextCompPro-Regular.woff") format("woff"), url("/fonts/PFDinTextCompPro-Regular.ttf") format("ttf");
+  src: local("PFDinTextCompPro-Regular"), url("fonts/PFDinTextCompPro-Regular.woff") format("woff"), url("fonts/PFDinTextCompPro-Regular.ttf") format("ttf");
 }
 
 .conteiner {
